@@ -3,28 +3,20 @@
 REAL PROFILE INFORMATION
 
 GitHub Username:
-YOUR_GITHUB_USERNAME
+prawinrajulu
 
 GitHub Profile:
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/prawinrajulu
 
 LinkedIn:
-https://linkedin.com/in/...
+https://www.linkedin.com/in/pravin-rajulu-014439310/
 
 Portfolio:
-https://...
+https://myportfolio-3bch.onrender.com
 
 Email:
-your@email.com
+pprawin48@gmail.com
 
-LeetCode:
-https://leetcode.com/u/...
-
-HackerRank:
-https://www.hackerrank.com/...
-
-CodeChef:
-https://www.codechef.com/users/...
 
 =================================================
 
@@ -33,12 +25,8 @@ REPOSITORIES
 Lost & Found Campus Platform:
 https://github.com/...
 
-Smart Campus Assistant:
-https://github.com/...
-
-NEXUS COMPUTING:
-https://github.com/...
-
+Pavithra Travels:
+https://www.pavithra-travels.com
 =================================================
 
 RULES
